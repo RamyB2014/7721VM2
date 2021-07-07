@@ -76,6 +76,7 @@ button.topnav-expand
 	border: none;
 	color: inherit;
 	font-size: inherit;
+	background: none;
 	background-color: transparent;
 }
 
@@ -131,6 +132,7 @@ ul.navigation ul
 	margin: 0;
 	padding: 10px 0 10px 0;
 	position: absolute;
+	background: none;
 	background-color: #686868;
 }
 
@@ -175,6 +177,7 @@ ul.navigation ul ul
 {
 	top: 0;
 	left: 100%;
+	background: none;
 	background-color: #686868;
 }
 
@@ -241,6 +244,7 @@ ul.sub-menu.focus-within-expanded
 
 ul.navigation li:hover
 {
+	background: none;
 	background-color: transparent;
 }
 
@@ -262,6 +266,7 @@ ul.navigation ul > li > a
 
 ul.navigation ul > li:hover
 {
+	background: none;
 	background-color: #4b4b4b;
 }
 
@@ -281,6 +286,7 @@ nav.title-bar
 	display: block;
 	padding-top: 25px;
 	padding-bottom: 25px;
+	background: none;
 	background-color: #076685;
 }
 
@@ -410,6 +416,7 @@ nav.title-bar .menu-icon
 	color: #45494c;
 	font-size: 1em;
 	padding-left: 10px;
+	background: none;
 	background-color: #ffffff;
 	padding-right: 50px;
 }
@@ -452,6 +459,7 @@ nav.title-bar .menu-icon
 .search-bar .search-filter-wrapper.open
 {
 	color: #45494c;
+	background: none;
 	background-color: #ffffff;
 }
 
@@ -479,6 +487,7 @@ nav.title-bar .menu-icon
 	white-space: nowrap;
 	top: 2em;
 	color: #45494c;
+	background: none;
 	background-color: #ffffff;
 }
 
@@ -491,6 +500,7 @@ nav.title-bar .menu-icon
 .search-filter-content ul li:hover
 {
 	color: #000000;
+	background: none;
 	background-color: #ffffff;
 }
 
@@ -542,6 +552,7 @@ html[dir='rtl'] .sidenav-layout
 	overflow: auto;
 	width: 20%;
 	display: block;
+	background: none;
 	background-color: #45494c;
 }
 
@@ -561,6 +572,7 @@ html[dir='rtl'] .sidenav-layout
 
 ul.sidenav li a:hover
 {
+	background: none;
 	background-color: #303335;
 }
 
@@ -672,6 +684,7 @@ html.pulseTopic .main-section .row.outer-row
 	height: auto;
 	left: auto;
 	right: 0px;
+	background: none;
 	background-color: #ffffff;
 }
 
@@ -821,6 +834,7 @@ div.central-dropdown-content > a:hover
 	border-top-right-radius: 0px;
 	border-bottom-right-radius: 0px;
 	border-bottom-left-radius: 0px;
+	background: none;
 	background-color: #ffffff;
 }
 
@@ -878,16 +892,19 @@ div.central-dropdown-content > a:hover
 	border-top-right-radius: 5px;
 	border-bottom-right-radius: 5px;
 	border-bottom-left-radius: 5px;
+	background: none;
 	background-color: #d0d3d5;
 }
 
 .search-auto-complete li.auto-result-content.auto-result-selected
 {
+	background: none;
 	background-color: #d0d3d5;
 }
 
 .search-auto-complete li.auto-result-history.auto-result-selected
 {
+	background: none;
 	background-color: #d0d3d5;
 }
 
@@ -993,6 +1010,7 @@ div.central-dropdown-content > a:hover
 .search-filter-content ul li button:focus
 {
 	color: #000000;
+	background: none;
 	background-color: #ffffff;
 }
 
@@ -1287,6 +1305,7 @@ h1#results-heading
 
 .sidenav-container ul ul
 {
+	background: none;
 	background-color: #45494c;
 }
 
@@ -1322,21 +1341,25 @@ ul.sidenav li.is-accordion-submenu-parent > a span.submenu-toggle
 
 ul.sidenav ul > li > a:hover
 {
+	background: none;
 	background-color: #303335;
 }
 
 ul.sidenav ul ul > li > a:hover
 {
+	background: none;
 	background-color: #303335;
 }
 
 ul.sidenav ul ul ul > li > a:hover
 {
+	background: none;
 	background-color: #303335;
 }
 
 ul.sidenav ul ul ul ul > li > a:hover
 {
+	background: none;
 	background-color: #303335;
 }
 
@@ -1377,6 +1400,7 @@ ul.sidenav ul ul ul ul > li > a.selected
 	font-family: Arial;
 	font-weight: normal;
 	font-style: normal;
+	background: none;
 	background-color: #ffffff;
 }
 
@@ -1392,6 +1416,7 @@ ul.navigation ul ul a
 
 ul.navigation ul ul ul
 {
+	background: none;
 	background-color: #686868;
 }
 
@@ -1402,6 +1427,7 @@ ul.navigation ul ul ul a
 
 ul.navigation ul ul ul ul
 {
+	background: none;
 	background-color: #686868;
 }
 
@@ -1447,6 +1473,7 @@ ul.navigation ul > li.is-expanded > a
 
 ul.navigation ul ul > li:hover
 {
+	background: none;
 	background-color: #4b4b4b;
 }
 
@@ -1462,6 +1489,7 @@ ul.navigation ul ul > li.is-expanded > a
 
 ul.navigation ul ul ul > li:hover
 {
+	background: none;
 	background-color: #4b4b4b;
 }
 
@@ -1477,6 +1505,7 @@ ul.navigation ul ul ul > li.is-expanded > a
 
 ul.navigation ul ul ul ul > li:hover
 {
+	background: none;
 	background-color: #4b4b4b;
 }
 

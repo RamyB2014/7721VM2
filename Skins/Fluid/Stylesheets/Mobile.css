@@ -6,6 +6,7 @@
 	{
 		background-position: center top;
 		background-repeat: no-repeat;
+		background: none;
 		background-color: #076685;
 	}
 
@@ -26,6 +27,7 @@
 	{
 		background-position: center center;
 		background-repeat: no-repeat;
+		background: none;
 		background-color: #ffffff;
 	}
 
@@ -91,6 +93,7 @@
 	{
 		left: auto;
 		right: -25px;
+		background: none;
 		background-color: #ffffff;
 	}
 
@@ -106,31 +109,37 @@
 
 	ul.off-canvas-list li a:hover
 	{
+		background: none;
 		background-color: #303335;
 	}
 
 	ul.off-canvas-list ul > li > a:hover
 	{
+		background: none;
 		background-color: #303335;
 	}
 
 	ul.off-canvas-list ul ul > li > a:hover
 	{
+		background: none;
 		background-color: #303335;
 	}
 
 	ul.off-canvas-list ul ul ul > li > a:hover
 	{
+		background: none;
 		background-color: #303335;
 	}
 
 	ul.off-canvas-list ul ul ul ul > li > a:hover
 	{
+		background: none;
 		background-color: #303335;
 	}
 
 	ul.off-canvas-list li.js-drilldown-back > a:hover
 	{
+		background: none;
 		background-color: #303335;
 	}
 
@@ -171,11 +180,13 @@
 
 	.off-canvas
 	{
+		background: none;
 		background-color: #303335;
 	}
 
 	.off-canvas ul ul
 	{
+		background: none;
 		background-color: #303335;
 	}
 
@@ -249,6 +260,7 @@
 
 	.search-auto-complete ul
 	{
+		background: none;
 		background-color: #ffffff;
 	}
 
@@ -279,16 +291,19 @@
 
 	.search-auto-complete li.auto-result-item.auto-result-selected
 	{
+		background: none;
 		background-color: #d0d3d5;
 	}
 
 	.search-auto-complete li.auto-result-content.auto-result-selected
 	{
+		background: none;
 		background-color: #d0d3d5;
 	}
 
 	.search-auto-complete li.auto-result-history.auto-result-selected
 	{
+		background: none;
 		background-color: #d0d3d5;
 	}
 
@@ -382,6 +397,7 @@
 
 	.search-bar .search-field
 	{
+		background: none;
 		background-color: #ffffff;
 		padding-right: 50px;
 	}
@@ -389,17 +405,20 @@
 	.search-filter-content
 	{
 		top: 2em;
+		background: none;
 		background-color: #ffffff;
 	}
 
 	.search-bar .search-filter-wrapper.open
 	{
+		background: none;
 		background-color: #ffffff;
 	}
 
 	.search-bar .search-filter:hover
 	{
 		background-repeat: no-repeat;
+		background: none;
 		background-color: #ffffff;
 	}
 
@@ -411,11 +430,13 @@
 
 	.search-filter-content ul li:hover
 	{
+		background: none;
 		background-color: #ffffff;
 	}
 
 	.search-filter-content ul li button:focus
 	{
+		background: none;
 		background-color: #ffffff;
 	}
 
@@ -448,11 +469,13 @@
 	.search-bar.search-bar-container .search-submit:hover
 	{
 		background-repeat: no-repeat;
+		background: none;
 		background-color: transparent;
 	}
 
 	.skip-to-content
 	{
+		background: none;
 		background-color: #ffffff;
 	}
 }

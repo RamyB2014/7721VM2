@@ -183,32 +183,38 @@
 
 	._Skins_Toolbar.mc-component .button.topic-ratings-empty-button
 	{
+		background: none;
 		background-color: transparent;
 		background-size: 16px 16px;
 	}
 
 	._Skins_Toolbar.mc-component .toolbar-button-drop-down
 	{
+		background: none;
 		background-color: #FFFFFF;
 	}
 
 	._Skins_Toolbar.mc-component .toolbar-button-drop-down.select-language-drop-down
 	{
+		background: none;
 		background-color: #FFFFFF;
 	}
 
 	._Skins_Toolbar.mc-component .toolbar-button-drop-down.select-language-drop-down ul li:hover
 	{
+		background: none;
 		background-color: #d0d3d5;
 	}
 
 	._Skins_Toolbar.mc-component .toolbar-button-drop-down.select-skin-drop-down
 	{
+		background: none;
 		background-color: #FFFFFF;
 	}
 
 	._Skins_Toolbar.mc-component .toolbar-button-drop-down.select-skin-drop-down ul li:hover
 	{
+		background: none;
 		background-color: #d0d3d5;
 	}
 
